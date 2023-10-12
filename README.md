@@ -1,2 +1,2 @@
 # Wikipedia_Scrapper
-Using library BeautifulSoup, Requests and Pandas.
+Unlock the power of web scraping with the expert guidance of our 'Web Scraping with pandas, BeautifulSoup, and requests' guide. This hands-on journey introduces you to the fundamental techniques of web scraping using Python's leading libraries, enabling you to effortlessly extract, parse, and structure data from websites. From real-world applications in financial analysis to respecting ethical considerations, this guide equips data analysts, researchers, and aspiring data professionals with the essential skills to gather valuable insights from the web while adhering to best practices
